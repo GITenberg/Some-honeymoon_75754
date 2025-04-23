@@ -1,0 +1,33 @@
+_repo: Some-honeymoon_75754
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herbert, Robert Gaston
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '31635'
+    url: http://www.gutenberg.org/2009/agents/31635
+creator:
+  author:
+    agent_name: Hall, Charles Everett
+    gutenberg_agent_id: '58127'
+    url: http://www.gutenberg.org/2009/agents/58127
+description: ''
+gutenberg_issued: '2025-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75754'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435018535260&seq=9
+pgterms:marc905: 20250328214011hall
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bGeorge Sully & Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Some honeymoon!
+url: http://www.gutenberg.org/ebooks/75754
