@@ -7,12 +7,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '31635'
     url: http://www.gutenberg.org/2009/agents/31635
+covers:
+- cover_type: archival
+  image_path: 75754-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hall, Charles Everett
     gutenberg_agent_id: '58127'
     url: http://www.gutenberg.org/2009/agents/58127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75754#Some-honeymoon
 gutenberg_issued: '2025-03-30'
 gutenberg_type: Text
 identifiers:
